@@ -24,9 +24,8 @@ Then you just need to facilitate delivery to a target and check your logs to see
 
 
 ::NOTES::
-The files contained in the unzipped-doc are just where I was working on setting up the initial document template.
---> You could create your own document by following these directions:
+ You could create your own document by following these directions:
 ===> https://www.blackhillsinfosec.com/bugging-docx-files-using-microsoft-word-part-1/
 --> Following the scheme I used, you should be able to get additional working templates that will be functional with the script.
-
+--> Just use a URL like http://$LHOST:$LPORT/rid=$RID or something like that
 There is also some room to use this to track the downloads of malicious docx files as well with the right template.
